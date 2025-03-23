@@ -1,1 +1,1 @@
-Commit often, push regularly, and hope for the best."It’s not a bug, it’s a feature!"Programming is like solving puzzles all day, every day.Deploy first, ask questions later.
+The best bugs hide in the smallest details.Commit often, push regularly, and hope for the best."It’s not a bug, it’s a feature!"Programming is like solving puzzles all day, every day.Deploy first, ask questions later.
